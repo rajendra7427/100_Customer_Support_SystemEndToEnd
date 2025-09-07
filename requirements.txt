@@ -1,3 +1,10 @@
 fastapi
 langchain
 langchain-community
+pandas
+langchain_astradb
+langchain_google_genai
+uvicorn
+langchain_openai
+
+-e .
